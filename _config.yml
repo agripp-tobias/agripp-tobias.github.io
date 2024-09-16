@@ -1,0 +1,6 @@
+title: Litu
+logo: assets/images/profile.pic.png
+show_dowloads:True
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jeky11-remote-theme
